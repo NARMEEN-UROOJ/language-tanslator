@@ -4,6 +4,7 @@ A sleek, modern desktop application built with Python and Tkinter that provides 
 
 ## ✨ Features
 
+- **Demo Video:** Check out the application in action! (Drag and drop your video here on GitHub)
 - **Modern UI:** Clean, aesthetic interface with hover effects and professional color palette.
 - **Auto-Detect:** Automatically detects the source language.
 - **100+ Languages:** Supports all major world languages via Google Translate.
@@ -15,8 +16,8 @@ A sleek, modern desktop application built with Python and Tkinter that provides 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Language-Translator.git
-   cd Language-Translator
+   git clone https://github.com/NARMEEN-UROOJ/language-tanslator.git
+   cd language-tanslator
    ```
 
 2. **Create a virtual environment (Recommended):**
